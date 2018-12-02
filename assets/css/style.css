@@ -1,0 +1,25 @@
+body{
+    background-image: url("http://img02.deviantart.net/c479/i/2013/321/c/2/flower_of_life_by_janrobbe-d6t596d.png")
+}
+div{
+    color: black;
+    background-color: #80ffff;
+    border: solid 2px white;
+    padding:10px;
+}
+div.title, div.goal, div.playerTotal{
+    background-color: #66ff99;
+    font-size: x-large;
+}
+h1{
+    text-align:center;
+    font-weight: bold;
+}
+.gemImage{
+    height: 90px;
+    width: 90px;
+    margin: 10px;
+}
+h1, span{
+    font-weight: bold;
+}
